@@ -1,0 +1,20 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: 19_2_Coupled_PP0.PcbDoc   12/2/2020  12:58:26 PM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Layer_1 Top to Layer_10 Bottom
+ASCII RoundHoles File : 19_2_Coupled_PP0.TXT
+EIA File   : 19_2_Coupled_PP0.DRL
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      6mil (0.152mm)                                            Round             1946      PTH        0.00inch (0.00mm)
+T2      32mil (0.8mm)                                             Round             8         PTH        0.00inch (0.00mm)
+T3      40mil (1.016mm)                                           Round             10        PTH        0.00inch (0.00mm)
+T4      94mil (2.4mm)                                             Round             4         PTH        0.00inch (0.00mm)
+T5      55mil (1.4mm)                                             Round             19        NPTH       0.00inch (0.00mm)
+T6      57mil (1.448mm)                                           Round             4         NPTH       0.00inch (0.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1991
+
+Total Processing Time (hh:mm:ss) : 00:00:01
